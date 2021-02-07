@@ -83,9 +83,7 @@
  \ \_\    \ \_____\  \ \_\ \_\  \/\_____\  \ \_\ \_\  \ \_____\  \ \_____\  \ \_\ 
   \/_/     \/_____/   \/_/\/_/   \/_____/   \/_/\/_/   \/_____/   \/_____/   \/_/
 
-感谢使用Flask-Cli脚手架(https://github.com/weivis/Flask-Cli), 脚手架作者WeiVi(https://www.weivird.com/) 正在启动中>
-“我不知道第三次世界大战会用哪些武器，但第四次世界大战中人们肯定用的是木棍和石块。” ——阿尔伯特·爱因斯坦 (出自Alice Calaprice所著《The New Quotable Einstein》)
-愿世界无战争
+
 
 开发模式运行 >
 配置文件      :  development  Config
