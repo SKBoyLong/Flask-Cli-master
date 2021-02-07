@@ -27,7 +27,7 @@
             |-SeedEmail 邮件发送方法
         |-Errorhandler.py   错误请求配置
         |-Extensions.py     引入依赖注册
-        |-Middleware.py     中间件 (2020/12/27废除POST中间件)
+        |-Middleware.py     中间件 (2021/1/27废除POST中间件)
             |-Token 请求认证
             |-POST 普通请求
         |-Models.py         数据库类
@@ -42,7 +42,7 @@
     |-ini
     |-expand
         |-new_blueprint     蓝图模板 直接复制到app内修改蓝图注册名即可
-        |-templates         代码模板 内置增删查改的代码(2020/12/27)新增
+        |-templates         代码模板 内置增删查改的代码(2021/1/27)新增
 
 # 使用依赖
     Blueprint
