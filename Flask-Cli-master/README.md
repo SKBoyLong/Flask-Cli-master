@@ -14,35 +14,7 @@
     Email.py    邮件发送模块
     upload      多用上传模块
 
-# 项目文件和结构说明
-    |-manage.py
-    |-requirements.txt
-    |-app
-        |-upload            文件上传模块
-        |-user              蓝图：用户类功能
-        |-__init__.py       构建工厂
-        |-Blueprint.py      蓝图注册
-        |-Config.py         配置文件
-        |-Email.py          邮件发送模块
-            |-SeedEmail 邮件发送方法
-        |-Errorhandler.py   错误请求配置
-        |-Extensions.py     引入依赖注册
-        |-Middleware.py     中间件 (2021/1/27废除POST中间件)
-            |-Token 请求认证
-            |-POST 普通请求
-        |-Models.py         数据库类
-            |-数据库基类
-            |-用户表
-            |-管理员表
-            |-异常记录表
-        |-Startprint.py     启动打印
-        |-Tool.py           小工具
-        |-RAM.py            项目运行时储存的共享参数
-    |-env
-    |-ini
-    |-expand
-        |-new_blueprint     蓝图模板 直接复制到app内修改蓝图注册名即可
-        |-templates         代码模板 内置增删查改的代码(2021/1/27)新增
+
 
 # 使用依赖
     Blueprint
